@@ -1,0 +1,9 @@
+{
+	"html.format.indentHandlebars": true,
+	"html.format.indentInnerHtml": true,
+	"indentRainbow.colorOnWhiteSpaceOnly": true,
+	"editor.tabSize": 8,
+	"css.format.spaceAroundSelectorSeparator": true,
+	"editor.renderLineHighlightOnlyWhenFocus": true,
+	"search.showLineNumbers": true
+}
